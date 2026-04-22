@@ -1,10 +1,10 @@
 {
-  "telegramApiToken": 8748524106:AAFxgwoF5ZR03MVK2EEGRTXWTo_pHcXFcDU,
-  "chatId": 5150717882,
+  "telegramApiToken": null,
+  "chatId": null,
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "אמטי 07 עד 35 אלף ק״מ",
+      "url": "https://www.yad2.co.il/vehicles/motorcycles?manufacturer=118&model=2622&year=2022&topYear=2025&km=35000"
     }
   ]
 }
