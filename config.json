@@ -9,6 +9,26 @@
     {
       "topic": "אופנועים מבוקשים מוגבלים",
       "url": "https://www.yad2.co.il/vehicles/motorcycles?manufacturer=118,123,115&model=2512,2622,2925,2935,3262,3194,3193,3907,2889,3275&year=2021--1&license=3&price=-1-70000&km=-1-35000"
+    },
+    {
+      "topic": "אופנועים איזור פתח תקווה",
+      "url": "https://www.yad2.co.il/vehicles/motorcycles?manufacturer=118,123&model=2622,2512,2925,3785,2935,2939,3262&license=3&area=4"
+    },
+    {
+      "topic": "אופנועים אזור מרכז",
+      "url": "https://www.yad2.co.il/vehicles/motorcycles?license=3&area=4,51,10,3,78,71,1"
+    },
+    {
+      "topic": "קטנועים אזור מרכז נתונים מבוקשים",
+      "url": "https://www.yad2.co.il/vehicles/scooters?manufacturer=135,134,137&year=2021--1&license=3&km=-1-25000&area=71,78,4,3,1,10,11,51,9&engineval=250--1"
+    },
+    {
+      "topic": "קטנועים צפון דרום",
+      "url": "https://www.yad2.co.il/vehicles/scooters?manufacturer=135,134,137&year=2021--1&license=3&km=-1-25000&topArea=25,43&engineval=250--1"
+    },
+    {
+      "topic": "X-ADV 750 מוגבל",
+      "url": "https://www.yad2.co.il/vehicles/scooters?manufacturer=134&model=3044&year=2021--1&license=3"
     }
   ]
 }
