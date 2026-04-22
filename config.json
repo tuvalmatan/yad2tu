@@ -3,8 +3,12 @@
   "chatId": null,
   "projects": [
     {
-      "topic": "אמטי 07 עד 35 אלף ק״מ",
-      "url": "https://www.yad2.co.il/vehicles/motorcycles?manufacturer=118&model=2622&year=2022&topYear=2025&km=35000"
+      "topic": "טימקס 560 21-25 עד 25K קמ עד 55K ₪",
+      "url": "https://www.yad2.co.il/vehicles/scooters?manufacturer=135&model=3358,3357&year=2021-2025&price=-1-55000&km=-1-25000"
+    },
+    {
+      "topic": "אופנועים מבוקשים מוגבלים",
+      "url": "https://www.yad2.co.il/vehicles/motorcycles?manufacturer=118,123,115&model=2512,2622,2925,2935,3262,3194,3193,3907,2889,3275&year=2021--1&license=3&price=-1-70000&km=-1-35000"
     }
   ]
 }
